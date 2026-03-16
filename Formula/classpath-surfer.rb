@@ -1,9 +1,9 @@
 class ClasspathSurfer < Formula
   desc "Fast dependency symbol search for Gradle Java/Kotlin projects"
   homepage "https://github.com/rscarrera27/classpath-surfer"
-  url "https://github.com/rscarrera27/classpath-surfer/releases/download/v0.3.1/classpath-surfer-aarch64-apple-darwin.tar.gz"
-  sha256 "6086d95a08b26bed7a50a6ca143fbaf3fc102b48e013e719e19a327993d73694"
-  version "0.3.1"
+  url "https://github.com/rscarrera27/classpath-surfer/releases/download/v0.4.0/classpath-surfer-aarch64-apple-darwin.tar.gz"
+  sha256 "0955feefb58cd920740a09a014d76dad011ca6fcba3ecae32a4c7693b01427d4"
+  version "0.4.0"
   license "Apache-2.0"
 
   def install
