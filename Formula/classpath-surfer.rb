@@ -8,6 +8,7 @@ class ClasspathSurfer < Formula
 
   def install
     bin.install "classpath-surfer"
+    bin.install_symlink "classpath-surfer" => "cpsurf"
   end
 
   test do
